@@ -32,10 +32,10 @@
           <mxGeometry x="407" y="714" width="223" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-9" value="宏观系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="324" y="803" width="125" height="49" as="geometry" />
+          <mxGeometry x="324" y="781" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-10" value="纵向磁化矢量Mz=M0" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="284" y="902" width="205" height="49" as="geometry" />
+          <mxGeometry x="284" y="880" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-11" value="施加射频脉冲" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="883" y="320" width="158" height="49" as="geometry" />
