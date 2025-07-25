@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="VRoiHhImh6YckkQddZSK-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="665" y="299" width="528" height="880" as="geometry" />
+          <mxGeometry x="708" y="299" width="528" height="880" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="123" y="300" width="536" height="673" as="geometry" />
@@ -35,43 +35,43 @@
           <mxGeometry x="284" y="902" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-11" value="施加射频脉冲" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="320" width="158" height="49" as="geometry" />
+          <mxGeometry x="883" y="320" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-12" value="频率=拉莫尔频率ω=γB" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="809" y="419" width="221" height="49" as="geometry" />
+          <mxGeometry x="852" y="419" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-13" value="能量吸收与能级跃迁" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="816" y="517" width="207" height="49" as="geometry" />
+          <mxGeometry x="859" y="517" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-14" value="宏观效应" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="857" y="616" width="125" height="49" as="geometry" />
+          <mxGeometry x="900" y="616" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-15" value="纵向磁化Mz减小/反转" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="714" width="218" height="49" as="geometry" />
+          <mxGeometry x="723" y="714" width="218" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-16" value="横向磁化Mxy出现" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="953" y="714" width="185" height="49" as="geometry" />
+          <mxGeometry x="996" y="714" width="185" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-17" value="弛豫过程开始" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="813" width="158" height="49" as="geometry" />
+          <mxGeometry x="883" y="813" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-18" value="自旋-晶格弛豫（T1）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="911" width="214" height="49" as="geometry" />
+          <mxGeometry x="723" y="911" width="214" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-19" value="自旋-自旋弛豫（T2）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="944" y="911" width="214" height="49" as="geometry" />
+          <mxGeometry x="987" y="911" width="214" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-20" value="纵向磁化恢复" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="708" y="1010" width="158" height="49" as="geometry" />
+          <mxGeometry x="751" y="1010" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-21" value="横向磁化衰减" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="972" y="1010" width="158" height="49" as="geometry" />
+          <mxGeometry x="1015" y="1010" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-22" value="63% M0恢复时间=T1" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="686" y="1108" width="202" height="49" as="geometry" />
+          <mxGeometry x="729" y="1108" width="202" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-23" value="37% Mxy衰减时间=T2" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="947" y="1108" width="210" height="49" as="geometry" />
+          <mxGeometry x="990" y="1108" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-24" value="岩石孔隙流体弛豫机制" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="153" y="1086" width="223" height="49" as="geometry" />
@@ -137,42 +137,42 @@
         <mxCell id="VRoiHhImh6YckkQddZSK-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-14" target="VRoiHhImh6YckkQddZSK-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="789" y="689" />
+              <mxPoint x="832" y="689" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-14" target="VRoiHhImh6YckkQddZSK-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1045" y="689" />
+              <mxPoint x="1088" y="689" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.1;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-15" target="VRoiHhImh6YckkQddZSK-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="789" y="788" />
+              <mxPoint x="832" y="788" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.89;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-16" target="VRoiHhImh6YckkQddZSK-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1045" y="788" />
+              <mxPoint x="1088" y="788" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-17" target="VRoiHhImh6YckkQddZSK-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="787" y="886" />
+              <mxPoint x="830" y="886" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-17" target="VRoiHhImh6YckkQddZSK-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1051" y="886" />
+              <mxPoint x="1094" y="886" />
             </Array>
           </mxGeometry>
         </mxCell>
