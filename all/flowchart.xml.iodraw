@@ -190,8 +190,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VRoiHhImh6YckkQddZSK-47" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="VRoiHhImh6YckkQddZSK-25">
+        <mxCell id="VRoiHhImh6YckkQddZSK-47" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="VRoiHhImh6YckkQddZSK-25">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1558" y="286" />
+            </Array>
             <mxPoint x="1543" y="345" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
