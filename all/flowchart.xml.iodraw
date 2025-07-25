@@ -5,10 +5,10 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="VRoiHhImh6YckkQddZSK-55" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="125" y="982" width="537" height="272" as="geometry" />
+          <mxGeometry x="126" y="934" width="537" height="272" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="708" y="299" width="528" height="880" as="geometry" />
+          <mxGeometry x="708" y="299" width="528" height="907" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="128" y="300" width="532.81" height="624" as="geometry" />
@@ -77,16 +77,16 @@
           <mxGeometry x="990" y="1108" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-24" value="岩石孔隙流体弛豫机制" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="153" y="1086" width="223" height="49" as="geometry" />
+          <mxGeometry x="154" y="1038" width="223" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-25" value="自由弛豫（可忽略）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="426" y="997" width="207" height="49" as="geometry" />
+          <mxGeometry x="427" y="949" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-26" value="表面弛豫（主导）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="426" y="1093" width="191" height="42" as="geometry" />
+          <mxGeometry x="427" y="1045" width="191" height="42" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-27" value="扩散弛豫（可忽略）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="426" y="1175" width="207" height="49" as="geometry" />
+          <mxGeometry x="427" y="1127" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-3" target="VRoiHhImh6YckkQddZSK-4">
           <mxGeometry relative="1" as="geometry">
@@ -202,9 +202,9 @@
         <mxCell id="VRoiHhImh6YckkQddZSK-47" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="VRoiHhImh6YckkQddZSK-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="391" y="1052" />
+              <mxPoint x="392" y="1004" />
             </Array>
-            <mxPoint x="376" y="1111" as="sourcePoint" />
+            <mxPoint x="377" y="1063" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-24" target="VRoiHhImh6YckkQddZSK-26">
@@ -213,7 +213,7 @@
         <mxCell id="VRoiHhImh6YckkQddZSK-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-24" target="VRoiHhImh6YckkQddZSK-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="401" y="1167" />
+              <mxPoint x="402" y="1119" />
             </Array>
           </mxGeometry>
         </mxCell>
