@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1394" dy="877" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1627" dy="1023" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -68,16 +68,16 @@
           <mxGeometry x="947" y="1108" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-24" value="岩石孔隙流体弛豫机制" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1320" y="320" width="223" height="49" as="geometry" />
+          <mxGeometry x="1216" y="719" width="223" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-25" value="自由弛豫（可忽略）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1593" y="231" width="207" height="49" as="geometry" />
+          <mxGeometry x="1489" y="630" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-26" value="表面弛豫（主导）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1593" y="324" width="191" height="45" as="geometry" />
+          <mxGeometry x="1489" y="723" width="191" height="45" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-27" value="扩散弛豫（可忽略）" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1593" y="409" width="207" height="49" as="geometry" />
+          <mxGeometry x="1489" y="808" width="207" height="49" as="geometry" />
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-3" target="VRoiHhImh6YckkQddZSK-4">
           <mxGeometry relative="1" as="geometry">
@@ -193,9 +193,9 @@
         <mxCell id="VRoiHhImh6YckkQddZSK-47" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="VRoiHhImh6YckkQddZSK-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1558" y="286" />
+              <mxPoint x="1454" y="685" />
             </Array>
-            <mxPoint x="1543" y="345" as="sourcePoint" />
+            <mxPoint x="1439" y="744" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VRoiHhImh6YckkQddZSK-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-24" target="VRoiHhImh6YckkQddZSK-26">
@@ -204,7 +204,7 @@
         <mxCell id="VRoiHhImh6YckkQddZSK-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VRoiHhImh6YckkQddZSK-24" target="VRoiHhImh6YckkQddZSK-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1568" y="401" />
+              <mxPoint x="1464" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
