@@ -19,7 +19,7 @@
         <mxCell id="VRoiHhImh6YckkQddZSK-0" value="M0为初始纵向磁化矢量" style="text;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="230" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VRoiHhImh6YckkQddZSK-2" value="拉莫&#xa;尔频率为u¼gB" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VRoiHhImh6YckkQddZSK-2" value="拉莫尔频率为w=yB" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="210" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
