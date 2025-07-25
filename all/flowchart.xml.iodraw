@@ -16,8 +16,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VRoiHhImh6YckkQddZSK-0" value="M0为初始纵向磁化矢量" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VRoiHhImh6YckkQddZSK-0" value="M0为初始纵向磁化矢量" style="text;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="230" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VRoiHhImh6YckkQddZSK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
